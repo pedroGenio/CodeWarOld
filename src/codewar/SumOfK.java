@@ -1,11 +1,10 @@
 package codewar;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class SumOfK {
 

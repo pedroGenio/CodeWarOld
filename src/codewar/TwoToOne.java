@@ -5,7 +5,7 @@ import java.util.TreeSet;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class TwoToOne {
 

@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class CountingDuplicates {
 

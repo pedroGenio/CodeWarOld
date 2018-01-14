@@ -4,7 +4,7 @@ import java.util.StringJoiner;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class SpinWords {
 

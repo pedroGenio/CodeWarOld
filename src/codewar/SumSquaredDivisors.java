@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class SumSquaredDivisors {
 

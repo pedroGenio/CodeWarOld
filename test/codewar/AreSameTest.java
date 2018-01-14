@@ -1,15 +1,11 @@
 package codewar;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class AreSameTest {
 

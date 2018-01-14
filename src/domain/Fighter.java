@@ -2,7 +2,7 @@ package domain;
 
 /**
  *
- * @author Pedro
+ * @author Pedro Elias
  */
 public class Fighter {
 

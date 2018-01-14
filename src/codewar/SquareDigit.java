@@ -2,7 +2,7 @@ package codewar;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class SquareDigit {
 

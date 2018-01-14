@@ -4,7 +4,7 @@ import domain.Fighter;
 
 /**
  *
- * @author Pedro de Deus
+ * @author Pedro Elias
  */
 public class TwoFightersOneWinner {
 
